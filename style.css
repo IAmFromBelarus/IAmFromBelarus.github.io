@@ -1,4 +1,5 @@
 div, ul, ol, li, p, h1, h3, headed, sector, article, footed
 {
 	text-align: center;
+	list-style-position: inside;
 }	
