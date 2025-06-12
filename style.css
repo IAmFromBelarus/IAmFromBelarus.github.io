@@ -1,9 +1,15 @@
-div, li, p, h1, h2, h3, form, label, input, headed, sector, article, footed
+h1, h2, h3
 {
+	text-size: 10 px;	
 	text-align: center;
 	color: black;
-	text-size: 10 px;
 }	
+div, li, p, form, label, input, headed, sector, article, footed
+{
+	text-size: 10 px;	
+	text-align: center;
+	color: black;
+}
 ul
 {
 	text-align: center;
