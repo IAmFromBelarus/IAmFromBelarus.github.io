@@ -5,7 +5,7 @@ h1, h2, h3
 }	
 div, li, p, form, label, input, headed, sector, article, footed
 {
-	font-size: 10px;	
+	font-size: 17px;	
 	text-align: center;
 	color: black;
 }
@@ -20,5 +20,5 @@ img
 }
 body
 {
-	font-family: Comic sans;
+	font-family: "Comic sans", "Arial", sans-serif;
 }
