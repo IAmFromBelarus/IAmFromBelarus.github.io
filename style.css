@@ -5,7 +5,7 @@ h1, h2, h3
 }	
 div, li, p, form, label, input, headed, sector, article, footed
 {
-	text-size: 10px;	
+	font-size: 10px;	
 	text-align: center;
 	color: black;
 }
