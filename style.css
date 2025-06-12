@@ -20,5 +20,14 @@ img
 }
 body
 {
-	font-family: "Comic sans", "Arial", sans-serif;
+	font-family: "Comic Sans MS", "Arial", sans-serif;
+}
+a:hover
+{
+	color: FireBrick;
+	border: 1px solid FireBrick;
+}
+.text:hover
+{
+	color: #afcf00;
 }
